@@ -26,26 +26,26 @@ Vue.use(vueFrameAnimation)
 
 ```javascript
 props:{
-		  width:{
-		    type:Number,
-        require:true
-      },
-      height:{
-        type:Number,
-        require:true
-      },
-      bgImg:{
-        type:String,
-        require:true
-      },
-      position:{
-        type:Array,
-        require:true
-      },
-      wait:{
-		    type:Number,
-        default:80
-      }
+  width:{
+    type:Number,
+    require:true
+  },
+  height:{
+    type:Number,
+    require:true
+  },
+  bgImg:{
+    type:String,
+    require:true
+  },
+  position:{
+    type:Array,
+    require:true
+  },
+  wait:{
+    type:Number,
+    default:80
+  }
 }
 //position like ['0 -854','-174 -852','-349 -852','-524 -852','-698 -852','-873 -848',]
 ```
