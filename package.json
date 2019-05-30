@@ -1,0 +1,12 @@
+{
+  "name": "vue-frame-animation",
+  "version": "0.0.12",
+  "description": "vue frame animation plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sowtf",
+  "license": "MIT",
+  "devDependencies": {}
+}
